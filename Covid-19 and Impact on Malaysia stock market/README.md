@@ -9,7 +9,7 @@ Analyse Covid-19 data and its impact on Malaysia stock market, specifically the 
 - Bursa Malaysia KLSE Index Prices from 1 Jan 2020 to 2 Jul 2021 from [Yahoo! Finance](https://finance.yahoo.com/quote/%5EKLSE?p=%5EKLSE).
 
 ### Tools
-- Microsoft SQL Server 2019 for data analysis - View [SQL scripts](https://github.com/manisharehal/Tableau-Projects/blob/main/Covid-19%20and%20Impact%20on%20Malaysia%20stock%20market/SQLQuery3.sql)
+- Microsoft SQL Server 2019 for data analysis - View [SQL scripts](https://github.com/rehalarjun/Tableau-Projects/blob/main/Covid-19%20and%20Impact%20on%20Malaysia%20stock%20market/SQLQuery3.sql)
 - Tableau for data visualisation - View [dashboard]
 
 

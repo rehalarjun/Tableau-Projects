@@ -35,7 +35,7 @@ Conducted simple data wrangling and data cleaning:
 
 📍 Jupyter script: [Notebook](https://github.com/rehalarjun/Tableau-Projects/blob/main/Maven%20Unicorn%20Challenge/Maven%20Unicorn%20Companies%20-%20Data%20Wrangling.ipynb)
 
-📍 Clean Data: [unicorn_companies_clean.csv]((https://github.com/rehalarjun/Tableau-Projects/blob/main/Maven%20Unicorn%20Challenge/unicorn_companies_clean.csv))
+📍 Clean Data: [unicorn_companies_clean.csv](https://github.com/rehalarjun/Tableau-Projects/blob/main/Maven%20Unicorn%20Challenge/unicorn_companies_clean.csv)
 
 ## 📊 Visualization
 
